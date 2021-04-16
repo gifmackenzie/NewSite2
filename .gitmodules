@@ -1,0 +1,3 @@
+[submodule "docuapi"]
+	path = docuapi
+	url = https://github.com/bep/docuapi.git
